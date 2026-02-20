@@ -38,6 +38,12 @@ TEXT_TOP = "HELLO"
 TEXT_BOTTOM = "WORLD"
 ```
 
+## Result
+
+Below is an example of the generated QR code:
+
+![QR Code](result.svg)
+
 ---
 
 Made with Python + Segno
